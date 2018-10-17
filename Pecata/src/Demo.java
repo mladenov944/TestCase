@@ -10,6 +10,7 @@ public class Demo {
 		System.out.println("new");
 		System.out.println("asdjiasjdias");
 		System.out.println("asdasdkasodasiodji23u48923u48923h8423");
+		System.out.println("new branch deleted");
 
 	}
 
