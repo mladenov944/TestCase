@@ -8,6 +8,7 @@ public class Demo {
 		System.out.println(p.getAge() + " godniki");
 		System.out.println(p.getName() + " imence");
 		System.out.println("new");
+		System.out.println("asdjiasjdias");
 
 	}
 
